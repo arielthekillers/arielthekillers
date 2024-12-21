@@ -10,6 +10,7 @@ I'm a passionate developer, always eager to explore new technologies and build s
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
   ![More Tools](https://img.shields.io/badge/More...-black?style=flat-square)
+<img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 🎨 **Hobbies:** Coding, contributing to FOSS, designing creative solutions, graphic design, Linux.
 🔬 **Currently Working On:** X PROJECT Foundation, [Sintesa Corp](https://sintesacorp.id).
