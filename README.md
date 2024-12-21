@@ -1,7 +1,8 @@
 **Hi there! 👋 I'm arielthekillers**
+I'm a passionate developer, always eager to explore new technologies and build something impactful. Here, you'll find a collection of my projects, collaborations, and experiments.
 - 🔭 Working as Fullstack Dev [@Sintesa Corp](https://sintesacorp.id)
 - 📫 Reach me on x @arielthekillers
-I'm a passionate developer, always eager to explore new technologies and build something impactful. Here, you'll find a collection of my projects, collaborations, and experiments.
+
 
 ## About Me
 
