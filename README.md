@@ -9,4 +9,4 @@ I'm a passionate developer, always eager to explore new technologies and build s
 
 [SUPPORT ME](https://arielthekillers.id/donate)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/arielthekillers/arielthekillers/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/arielthekillers/arielthekillers/output/github-contribution-grid-snake-dark.svg)
